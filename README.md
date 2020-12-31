@@ -13,6 +13,12 @@ Predicting temperature values using a Raspberry PI, digital temperature sensor, 
 
 ## Schematics ⚡
 <p> 
-  <img align='Right' src="https://github.com/Raziz1/Polynomial_Linear_Regression/blob/main/images/schematics.png? raw=true">
+  <img align='Center' src="https://github.com/Raziz1/Polynomial_Linear_Regression/blob/main/images/schematics.png? raw=true">
 </p>
+
+|**Raspberry Pi**|**GPIO Extension Board**|**DS18B20 Temperature Sensor**|
+| -------------   |:-------------:  |:-------------:|
+| GPIO7           | GPIO4           | SIG            | 
+| 3.3V            | 3.3V            |VCC          |  
+| GND              | GND           |GND          |  
 
