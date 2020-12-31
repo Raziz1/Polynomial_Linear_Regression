@@ -10,3 +10,9 @@ Predicting temperature values using a Raspberry PI, digital temperature sensor, 
 * [MatPlotLib](https://pypi.org/project/matplotlib/)
 * [Scipy](https://pypi.org/project/scipy/)
 * [Sklearn](https://pypi.org/project/scikit-learn/)
+
+## Schematics ⚡
+<p> 
+  <img align='Right' src="https://github.com/Raziz1/Polynomial_Linear_Regression/blob/main/images/schematics.png? raw=true">
+</p>
+
