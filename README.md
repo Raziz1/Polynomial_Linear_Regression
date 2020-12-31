@@ -37,5 +37,5 @@ Predicting temperature values using a Raspberry PI, digital temperature sensor, 
 6.  Check the temperature `cd 28-00000495db35` `ls`
     * The result should be: `driver   id    name    power   subsystem   uevent    w1slave   cat w1_slave`
 7. Type in the following: `cat w1_slave`
-    * The result should be similar: `a3 01 4b 46 7f ff 0d 10 ce: crc=ce YES``a3 01 4b 46 7f ff 0d 10 ce t=26187` The second line is the current temperature value 
+    * The result should be similar: `a3 01 4b 46 7f ff 0d 10 ce: crc=ce YES` `a3 01 4b 46 7f ff 0d 10 ce t=26187` The second line is the current temperature value 
     
