@@ -6,3 +6,7 @@ Predicting temperature values using a Raspberry PI, digital temperature sensor, 
 * [DS18B20 Digital Temperature Sensor(SunFounder Kit V2.0)](https://www.amazon.ca/SunFounder-Modules-Sensor-Raspberry-Extension/dp/B014PF05ZA/ref=sr_1_8?dchild=1&keywords=sunfounder+starter+kit+v2.0&qid=1609429513&sr=8-8)
 
 ## Libraries  📚
+* [NumPy](https://pypi.org/project/numpy/)
+* [MatPlotLib](https://pypi.org/project/matplotlib/)
+* [Scipy](https://pypi.org/project/scipy/)
+* [Sklearn](https://pypi.org/project/scikit-learn/)
