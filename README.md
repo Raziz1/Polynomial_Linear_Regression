@@ -12,6 +12,10 @@ Predicting temperature values using a Raspberry PI, digital temperature sensor, 
 * [Sklearn](https://pypi.org/project/scikit-learn/)
 
 ## Overview 
+<p> 
+  <img width=45% height=45% align='Right' src="https://github.com/Raziz1/Polynomial_Linear_Regression/blob/main/images/Figure_1.png? raw=true">
+</p>
+
 * The following code plots both linear and polynomial regression models and prints the appropriate prediction for the next temperature interval. It also prints the relationship value for the both models. 
 * I have not used the Train/Test model method but there are some great resources to if you wante. 
     * [W3Schools Python ML Train/test](https://www.w3schools.com/python/python_ml_train_test.asp) 
