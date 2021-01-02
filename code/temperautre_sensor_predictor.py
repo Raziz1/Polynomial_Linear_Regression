@@ -30,7 +30,7 @@ def setup():
     global ds18b20
     for i in os.listdir('/sys/bus/w1/devices'):
         if i != 'w1_bus_master1':
-            ds18b20 = '28-030697943135'
+            ds18b20 = '28-030697943135' #Find the name of your temperature sensor by following the instructions on the README file
 
 #=====Read the temperature sensor data from a file=====
 def read():
