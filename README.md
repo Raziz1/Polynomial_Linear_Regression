@@ -29,10 +29,10 @@ Predicting temperature values using a Raspberry PI, digital temperature sensor, 
 </p>
 
 |**Raspberry Pi**|**GPIO Extension Board**|**DS18B20 Temperature Sensor**|
-| -------------   |:-------------:  |:-------------:|
-| GPIO7           | GPIO4           | SIG            | 
-| 3.3V            | 3.3V            |VCC          |  
-| GND              | GND           |GND          |  
+| ------------- |:-------------:|:-------------:|
+| GPIO7         | GPIO4         | SIG            | 
+| 3.3V          | 3.3V          |VCC          |  
+| GND           | GND           |GND          |  
 
 ## DS18B20 Temperature Sensor Setup
 1. Upgrade your kernel `sudo apt-get update sudo apt-get upgrade`
